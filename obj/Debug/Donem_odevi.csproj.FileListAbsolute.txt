@@ -1,0 +1,599 @@
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\Donem_odevi.exe.config
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\Donem_odevi.exe
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\Donem_odevi.pdb
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.Properties.Resources.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.exe
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.pdb
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.HastaHizmetEkrani.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAltEkran1.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.GenelDanismanİslemleriEkrani1.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.exe.licenses
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.hastaİslemAltEkran.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.extraForm_deneme.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuEkrani1.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.YatanHastaEkrani.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.HastaIslemleriEkrani.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.hemsireBolumGorevleri.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.AmeliyatHaneEkrani.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.vezneIslemleri1.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.HastaArama2.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.randevuAlt_Pzrts_2__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_3__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_4__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_5__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_6__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_7__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_1__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_2__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_3__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_4__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_5__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_6__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_7__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_1__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_2__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_3__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_4__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_5__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_6__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_7__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_1__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_2__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_3__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_4__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_5__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_6__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_7__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_1__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_2__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_3__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_4__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_5__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_6__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_7__.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.Baş_Hekim.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.Kullanıcı_Ekle.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.main_page.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.Doktor_Sayfası.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Win.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Map.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraMap.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Win.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Map.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraMap.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.PoliKlinikler.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.duyuruEkrani.resources
+C:\Users\emram\Desktop\fall semester work\Donem_odevi\Donem_odevi\obj\Debug\Donem_odevi.bashekimDoktorEkleme.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\Donem_odevi.exe.config
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\Donem_odevi.exe
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\Donem_odevi.pdb
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Win.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Map.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraMap.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Dashboard.v17.2.Win.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Map.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Spreadsheet.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraMap.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraScheduler.v17.2.Reporting.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraSpreadsheet.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Spreadsheet.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraScheduler.v17.2.Reporting.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.AmeliyatHaneEkrani.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.bashekimDoktorEkleme.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.Baş_Hekim.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.Doktor_Sayfası.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.duyuruEkrani.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.GenelDanismanİslemleriEkrani1.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.HastaArama2.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.HastaIslemleriEkrani.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.hastaİslemAltEkran.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.HastaHizmetEkrani.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.hemsireBolumGorevleri.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.Kullanıcı_Ekle.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.main_page.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.PoliKlinikler.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.Properties.Resources.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_1__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_2__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_3__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_4__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_5__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_6__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Carsmb_7__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_1__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_2__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_3__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_4__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_5__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_6__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuALt_Cuma_7__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_1__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_2__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_3__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_4__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_5__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_6__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_persembe_7__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAltEkran1.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.randevuAlt_Pzrts_2__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_3__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_4__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_5__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_6__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_pzrts_7__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_1__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_2__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_3__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_4__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_5__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_6__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuAlt_Sali_7__.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.RandevuEkrani1.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.vezneIslemleri1.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.YatanHastaEkrani.resources
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.exe.licenses
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.exe
+C:\Users\emram\Desktop\15542509_Emre_Ramazan_AYDIN\15542509_Emre_Ramazan_AYDIN(Dijital Hastane)\Donem_odevi\obj\Debug\Donem_odevi.pdb
