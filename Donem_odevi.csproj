@@ -1,0 +1,766 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CC7B1E91-17C8-494C-831A-0E959ABFBA88}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Donem_odevi</RootNamespace>
+    <AssemblyName>Donem_odevi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Dashboard.v17.2.Win, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v17.2.UI, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Map.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.TreeMap.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.2.UI, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.2.UI, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.2.Wizard, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v17.2.Presets, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v17.2.Win, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraMap.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v17.2.Reporting, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeMap.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AmeliyatHaneEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmeliyatHaneEkrani.Designer.cs">
+      <DependentUpon>AmeliyatHaneEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bashekimDoktorEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bashekimDoktorEkleme.Designer.cs">
+      <DependentUpon>bashekimDoktorEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Baş Hekim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Baş Hekim.Designer.cs">
+      <DependentUpon>Baş Hekim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassRandevu.cs" />
+    <Compile Include="dataBase.cs" />
+    <Compile Include="Doktor Sayfası.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doktor Sayfası.Designer.cs">
+      <DependentUpon>Doktor Sayfası.cs</DependentUpon>
+    </Compile>
+    <Compile Include="duyuruEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="duyuruEkrani.Designer.cs">
+      <DependentUpon>duyuruEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GenelDanismanİslemleriEkrani1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenelDanismanİslemleriEkrani1.Designer.cs">
+      <DependentUpon>GenelDanismanİslemleriEkrani1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaArama2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaArama2.Designer.cs">
+      <DependentUpon>HastaArama2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaIslemleriEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaIslemleriEkrani.Designer.cs">
+      <DependentUpon>HastaIslemleriEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaKayit.cs" />
+    <Compile Include="hastaİslemAltEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hastaİslemAltEkran.Designer.cs">
+      <DependentUpon>hastaİslemAltEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaHizmetEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaHizmetEkrani.Designer.cs">
+      <DependentUpon>HastaHizmetEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hemsireBolumGorevleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hemsireBolumGorevleri.Designer.cs">
+      <DependentUpon>hemsireBolumGorevleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcı Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanıcı Ekle.Designer.cs">
+      <DependentUpon>Kullanıcı Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_page.Designer.cs">
+      <DependentUpon>main_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PoliKlinikler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PoliKlinikler.Designer.cs">
+      <DependentUpon>PoliKlinikler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandevuAlt[Carsmb[1]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[1]].Designer.cs">
+      <DependentUpon>RandevuAlt[Carsmb[1]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[2]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[2]].Designer.cs">
+      <DependentUpon>RandevuAlt[Carsmb[2]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[3]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[3]].Designer.cs">
+      <DependentUpon>RandevuAlt[Carsmb[3]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[4]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[4]].Designer.cs">
+      <DependentUpon>RandevuAlt[Carsmb[4]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[5]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[5]].Designer.cs">
+      <DependentUpon>RandevuAlt[Carsmb[5]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[6]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[6]].Designer.cs">
+      <DependentUpon>RandevuAlt[Carsmb[6]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[7]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Carsmb[7]].Designer.cs">
+      <DependentUpon>RandevuAlt[Carsmb[7]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[1]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[1]].Designer.cs">
+      <DependentUpon>RandevuALt[Cuma[1]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[2]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[2]].Designer.cs">
+      <DependentUpon>RandevuALt[Cuma[2]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[3]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[3]].Designer.cs">
+      <DependentUpon>RandevuALt[Cuma[3]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[4]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[4]].Designer.cs">
+      <DependentUpon>RandevuALt[Cuma[4]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[5]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[5]].Designer.cs">
+      <DependentUpon>RandevuALt[Cuma[5]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[6]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[6]].Designer.cs">
+      <DependentUpon>RandevuALt[Cuma[6]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[7]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuALt[Cuma[7]].Designer.cs">
+      <DependentUpon>RandevuALt[Cuma[7]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[1]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[1]].Designer.cs">
+      <DependentUpon>RandevuAlt[persembe[1]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[2]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[2]].Designer.cs">
+      <DependentUpon>RandevuAlt[persembe[2]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[3]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[3]].Designer.cs">
+      <DependentUpon>RandevuAlt[persembe[3]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[4]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[4]].Designer.cs">
+      <DependentUpon>RandevuAlt[persembe[4]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[5]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[5]].Designer.cs">
+      <DependentUpon>RandevuAlt[persembe[5]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[6]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[6]].Designer.cs">
+      <DependentUpon>RandevuAlt[persembe[6]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[7]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[persembe[7]].Designer.cs">
+      <DependentUpon>RandevuAlt[persembe[7]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Pzrts%281%29].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Pzrts%281%29].Designer.cs">
+      <DependentUpon>RandevuAlt[Pzrts%281%29].cs</DependentUpon>
+    </Compile>
+    <Compile Include="randevuAlt[Pzrts%282%29].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="randevuAlt[Pzrts%282%29].Designer.cs">
+      <DependentUpon>randevuAlt[Pzrts%282%29].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[3]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[3]].Designer.cs">
+      <DependentUpon>RandevuAlt[pzrts[3]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[4]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[4]].Designer.cs">
+      <DependentUpon>RandevuAlt[pzrts[4]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[5]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[5]].Designer.cs">
+      <DependentUpon>RandevuAlt[pzrts[5]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[6]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[6]].Designer.cs">
+      <DependentUpon>RandevuAlt[pzrts[6]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[7]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[pzrts[7]].Designer.cs">
+      <DependentUpon>RandevuAlt[pzrts[7]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[1]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[1]].Designer.cs">
+      <DependentUpon>RandevuAlt[Sali[1]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[2]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[2]].Designer.cs">
+      <DependentUpon>RandevuAlt[Sali[2]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[3]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[3]].Designer.cs">
+      <DependentUpon>RandevuAlt[Sali[3]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[4]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[4]].Designer.cs">
+      <DependentUpon>RandevuAlt[Sali[4]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[5]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[5]].Designer.cs">
+      <DependentUpon>RandevuAlt[Sali[5]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[6]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[6]].Designer.cs">
+      <DependentUpon>RandevuAlt[Sali[6]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[7]].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuAlt[Sali[7]].Designer.cs">
+      <DependentUpon>RandevuAlt[Sali[7]].cs</DependentUpon>
+    </Compile>
+    <Compile Include="RandevuEkrani1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RandevuEkrani1.Designer.cs">
+      <DependentUpon>RandevuEkrani1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vezneIslemleri1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vezneIslemleri1.Designer.cs">
+      <DependentUpon>vezneIslemleri1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YatanHastaEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YatanHastaEkrani.Designer.cs">
+      <DependentUpon>YatanHastaEkrani.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AmeliyatHaneEkrani.resx">
+      <DependentUpon>AmeliyatHaneEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bashekimDoktorEkleme.resx">
+      <DependentUpon>bashekimDoktorEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Baş Hekim.resx">
+      <DependentUpon>Baş Hekim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doktor Sayfası.resx">
+      <DependentUpon>Doktor Sayfası.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="duyuruEkrani.resx">
+      <DependentUpon>duyuruEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenelDanismanİslemleriEkrani1.resx">
+      <DependentUpon>GenelDanismanİslemleriEkrani1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaArama2.resx">
+      <DependentUpon>HastaArama2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaIslemleriEkrani.resx">
+      <DependentUpon>HastaIslemleriEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hastaİslemAltEkran.resx">
+      <DependentUpon>hastaİslemAltEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaHizmetEkrani.resx">
+      <DependentUpon>HastaHizmetEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hemsireBolumGorevleri.resx">
+      <DependentUpon>hemsireBolumGorevleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanıcı Ekle.resx">
+      <DependentUpon>Kullanıcı Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_page.resx">
+      <DependentUpon>main_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PoliKlinikler.resx">
+      <DependentUpon>PoliKlinikler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RandevuAlt[Carsmb[1]].resx">
+      <DependentUpon>RandevuAlt[Carsmb[1]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Carsmb[2]].resx">
+      <DependentUpon>RandevuAlt[Carsmb[2]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Carsmb[3]].resx">
+      <DependentUpon>RandevuAlt[Carsmb[3]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Carsmb[4]].resx">
+      <DependentUpon>RandevuAlt[Carsmb[4]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Carsmb[5]].resx">
+      <DependentUpon>RandevuAlt[Carsmb[5]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Carsmb[6]].resx">
+      <DependentUpon>RandevuAlt[Carsmb[6]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Carsmb[7]].resx">
+      <DependentUpon>RandevuAlt[Carsmb[7]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuALt[Cuma[1]].resx">
+      <DependentUpon>RandevuALt[Cuma[1]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuALt[Cuma[2]].resx">
+      <DependentUpon>RandevuALt[Cuma[2]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuALt[Cuma[3]].resx">
+      <DependentUpon>RandevuALt[Cuma[3]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuALt[Cuma[4]].resx">
+      <DependentUpon>RandevuALt[Cuma[4]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuALt[Cuma[5]].resx">
+      <DependentUpon>RandevuALt[Cuma[5]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuALt[Cuma[6]].resx">
+      <DependentUpon>RandevuALt[Cuma[6]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuALt[Cuma[7]].resx">
+      <DependentUpon>RandevuALt[Cuma[7]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[persembe[1]].resx">
+      <DependentUpon>RandevuAlt[persembe[1]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[persembe[2]].resx">
+      <DependentUpon>RandevuAlt[persembe[2]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[persembe[3]].resx">
+      <DependentUpon>RandevuAlt[persembe[3]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[persembe[4]].resx">
+      <DependentUpon>RandevuAlt[persembe[4]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[persembe[5]].resx">
+      <DependentUpon>RandevuAlt[persembe[5]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[persembe[6]].resx">
+      <DependentUpon>RandevuAlt[persembe[6]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[persembe[7]].resx">
+      <DependentUpon>RandevuAlt[persembe[7]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Pzrts%281%29].resx">
+      <DependentUpon>RandevuAlt[Pzrts%281%29].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="randevuAlt[Pzrts%282%29].resx">
+      <DependentUpon>randevuAlt[Pzrts%282%29].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[pzrts[3]].resx">
+      <DependentUpon>RandevuAlt[pzrts[3]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[pzrts[4]].resx">
+      <DependentUpon>RandevuAlt[pzrts[4]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[pzrts[5]].resx">
+      <DependentUpon>RandevuAlt[pzrts[5]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[pzrts[6]].resx">
+      <DependentUpon>RandevuAlt[pzrts[6]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[pzrts[7]].resx">
+      <DependentUpon>RandevuAlt[pzrts[7]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Sali[1]].resx">
+      <DependentUpon>RandevuAlt[Sali[1]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Sali[2]].resx">
+      <DependentUpon>RandevuAlt[Sali[2]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Sali[3]].resx">
+      <DependentUpon>RandevuAlt[Sali[3]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Sali[4]].resx">
+      <DependentUpon>RandevuAlt[Sali[4]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Sali[5]].resx">
+      <DependentUpon>RandevuAlt[Sali[5]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Sali[6]].resx">
+      <DependentUpon>RandevuAlt[Sali[6]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuAlt[Sali[7]].resx">
+      <DependentUpon>RandevuAlt[Sali[7]].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RandevuEkrani1.resx">
+      <DependentUpon>RandevuEkrani1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vezneIslemleri1.resx">
+      <DependentUpon>vezneIslemleri1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YatanHastaEkrani.resx">
+      <DependentUpon>YatanHastaEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifyingglass-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asasdasdasd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\090642-blue-jelly-icon-signs-h-hospital.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_search_173095.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_8_375259.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JSB04ccH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tetkik-tahlil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\090642-blue-jelly-icon-signs-h-hospital1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_6_375261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_6_375261hr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital_icon12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_binary-tree_49580.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_H_sign_hospital_hospital_sign_hospital__medical__road_sign_1887039.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital-landing-sign-healthcare-medical-health-37533065522c35aa-512x512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a81422b9fca4c1a583a1b9cad542716d.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\89907379-customer-care-team-icon-isolated-on-special-red-square-button-abstract-illustration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_save_173091 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_home_173033.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_home_1730331.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_circle-arrow-up_173183.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Cancel_1493282.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_system-users_118828.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_search_1730951.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ana Backgroung.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elazığ-üniversitesi-hastanesi-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ana Backgroung1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Save-as_70651.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_xmag_8826.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_kappfinder_3358.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ana Backgroung2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ana Backgroung3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ana Backgroung4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ana Backgroung5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medical-25-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cash_register_desk_payment_machine_finance-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="icons\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-312324_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\art-deco-hospital.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xsax.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xsax1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bluedesktopwallpapersaaswg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\doctors.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xhospital-ward2.png.pagespeed.ic.EbemDuHWRx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xdhospital-ward2.png.pagespeed.ic.EbemDuHWRx.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a81422b9fca4c1a583a1b9cad542716d1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acaemic-slider-doktor-mikroskop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acaemdic-slider-doktor-mikroskop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\800px-Flag_of_the_Red_Crescent.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hospital-landing-sign-healthcare-medical-health-37533065522c35aa-512x5121.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

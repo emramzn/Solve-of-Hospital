@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="if_home_1730331" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_home_1730331.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ana Backgroung2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ana Backgroung2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elazığ-üniversitesi-hastanesi-logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elazığ-üniversitesi-hastanesi-logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="asasdasdasd" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\asasdasdasd.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="800px-Flag_of_the_Red_Crescent.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\800px-Flag_of_the_Red_Crescent.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_home_173033" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_home_173033.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_system-users_118828" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_system-users_118828.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ana Backgroung4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ana Backgroung4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cash_register_desk_payment_machine_finance-48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cash_register_desk_payment_machine_finance-48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="090642-blue-jelly-icon-signs-h-hospital1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\090642-blue-jelly-icon-signs-h-hospital1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_6_375261hr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_6_375261hr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_binary-tree_49580" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_binary-tree_49580.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a81422b9fca4c1a583a1b9cad542716d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a81422b9fca4c1a583a1b9cad542716d.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bluedesktopwallpapersaaswg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bluedesktopwallpapersaaswg.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="090642-blue-jelly-icon-signs-h-hospital" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\090642-blue-jelly-icon-signs-h-hospital.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="doctors" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\doctors.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ana Backgroung1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ana Backgroung1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ana Backgroung5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ana Backgroung5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="JSB04ccH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\JSB04ccH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ana Backgroung" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ana Backgroung.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="art-deco-hospital" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\art-deco-hospital.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tetkik-tahlil" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tetkik-tahlil.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icon-111" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icon-111.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Medical-25-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Medical-25-64.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xdhospital-ward2.png.pagespeed.ic.EbemDuHWRx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xdhospital-ward2.png.pagespeed.ic.EbemDuHWRx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Save-as_70651" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Save-as_70651.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_6_375261" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_6_375261.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="89907379-customer-care-team-icon-isolated-on-special-red-square-button-abstract-illustration" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\89907379-customer-care-team-icon-isolated-on-special-red-square-button-abstract-illustration.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icon-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icon-11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="magnifyingglass-48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\magnifyingglass-48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_circle-arrow-up_173183" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_circle-arrow-up_173183.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="medical-312324_960_720" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\medical-312324_960_720.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_search_173095" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_search_173095.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clear-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clear-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="clear-48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\clear-48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_Cancel_1493282" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_Cancel_1493282.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hospital_icon12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hospital_icon12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_8_375259" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_8_375259.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_H_sign_hospital_hospital_sign_hospital__medical__road_sign_1887039" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_H_sign_hospital_hospital_sign_hospital__medical__road_sign_1887039.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_kappfinder_3358" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_kappfinder_3358.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xsax1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xsax1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="acaemic-slider-doktor-mikroskop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acaemic-slider-doktor-mikroskop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hospital-landing-sign-healthcare-medical-health-37533065522c35aa-512x512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hospital-landing-sign-healthcare-medical-health-37533065522c35aa-512x512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_xmag_8826" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_xmag_8826.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a81422b9fca4c1a583a1b9cad542716d1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a81422b9fca4c1a583a1b9cad542716d1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ana Backgroung3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ana Backgroung3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xhospital-ward2.png.pagespeed.ic.EbemDuHWRx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xhospital-ward2.png.pagespeed.ic.EbemDuHWRx.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="acaemdic-slider-doktor-mikroskop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\acaemdic-slider-doktor-mikroskop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xsax" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xsax.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_search_1730951" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_search_1730951.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hospital_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hospital_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="if_save_173091 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\if_save_173091 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hospital-landing-sign-healthcare-medical-health-37533065522c35aa-512x5121" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hospital-landing-sign-healthcare-medical-health-37533065522c35aa-512x5121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
